@@ -7,12 +7,6 @@
  ⚡ Fun fact: I love comics S2
   <br>
   
-  <div align="center">
-  <a href="https://github.com/Pietrogp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pietrogp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrogp&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
   
   ## 📫 How to reach me
 <!-- <a href=""><img  src="https://img.shields.io/badge/Website-FF5244?style=for-the-badge&logo=website&logoColor=white"></a> -->
